@@ -1,0 +1,10 @@
+{
+  "name": "antserver",
+  "author": "Sam Gwilym",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.3"
+  },
+  "start": "node server.js"
+}
